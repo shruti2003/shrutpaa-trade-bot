@@ -1,0 +1,11 @@
+anthropic>=1.11
+streamlit>=1.50
+yfinance>=1.0
+chromadb>=1.5
+pandas
+numpy
+scipy
+plotly
+requests
+beautifulsoup4
+pytest
